@@ -2,11 +2,8 @@ url: https://sudoexplorer.github.io/jekyll-dash/
 title: sudoexplorer
 author: sudoexplorer
 email: explorereverywhere@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
-  The meta intellectual topics, thoughts and opinions about Technology, Science, Gaming, Internet, Life, Food, Music, Lifestyle and Universe.
+description: > # this means to ignore newlines until "show_exerpts:#Write an awesome description for your new site here. You can edit this #line in _config.yml. It will appear in your document head meta (for#Google search results) and in your feed.xml site description."
+   The meta intellectual explorer. Thoughts and opinions about Technology, Science, Gaming, Internet, Life, Food, Music, Lifestyle and Universe.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
